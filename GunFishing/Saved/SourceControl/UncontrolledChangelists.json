@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"L:/Github/Gunfishing/GunFishing/Content/LootTable/ST_LootTable.uasset",
+				"L:/Github/Gunfishing/GunFishing/Content/LootTable/DT_LootTable.uasset",
+				"L:/Github/Gunfishing/GunFishing/Content/LV_Master.umap",
+				"L:/Github/Gunfishing/GunFishing/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"L:/Github/Gunfishing/GunFishing/Content/LootTable/BP_LootTableTest.uasset",
+				"L:/Github/Gunfishing/GunFishing/Content/LootTable/CF_LootTableWeight.uasset"
+			]
+		}
+	]
+}
